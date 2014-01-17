@@ -1,7 +1,7 @@
 Captain
 =======
 
-A tiny template to use github webhooks
+A tiny wrapper around the awesome [node-github-hook](https://github.com/nlf/node-github-hook) for easy deployment.
 
 ## Setup
 
